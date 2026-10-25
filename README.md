@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is my first git repository . Author - Kinshuk Uprety
+This is my first git repository . 
+Author - Kinshuk Uprety
